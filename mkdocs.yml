@@ -10,6 +10,17 @@ theme:
     - navigation.path
     - navigation.top
 
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/buzzd
+
+    - icon: fontawesome/brands/tiktok
+      link: https://tiktok.com/@buzzdchat
+
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/buzzd.chat
+
 markdown_extensions:
   - md_in_html
   - attr_list
@@ -20,7 +31,12 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+plugins:
+  - privacy:
+      concurrency: 1
+
 nav:
+  - Home:  https://buzzd.chat
   - Getting Started:
       - Windows: index.md
       - macOS: mac-os.md
