@@ -1,0 +1,33 @@
+site_name: Buzzd Docs
+site_url: https://buzzd.chat
+dev_addr: 127.0.0.1:8069
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.tabs
+    - navigation.path
+    - navigation.top
+
+plugins:
+  - offline
+
+markdown_extensions:
+  - md_in_html
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Getting Started:
+      - Windows: index.md
+  - Downloads:
+      - Yahoo! Messenger: downloads/yahoo-messenger.md
+      - Flash Player: downloads/flash-player.md
+      - BZDPatcher: downloads/bzd-patcher.md
+  - FAQ: faq.md
