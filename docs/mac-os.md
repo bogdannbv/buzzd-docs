@@ -70,11 +70,11 @@ For the client to be able to connect to the Buzzd services, some patching is req
 
 !!! warning "Make sure Yahoo! Messenger is COMPLETELY closed before proceeding, from the taskbar too." 
 
-#### 5.1. Press PATCH!
+#### 5.1. Start Patching
 After downloading and starting BZDPatcher, press the PATCH button:
 ![Press PATCH](./images/getting-started/bzdpatcher-patch-highlighted.png)
 
-#### 5.2. Open YahooMessenger.exe:
+#### 5.2. Open YahooMessenger.exe
 Select and Open the Yahoo! Messenger executable:
 ![Select and open Yahoo messenger executable](./images/getting-started/macos-select-yahoomessenger-exe.png)
 
@@ -86,7 +86,7 @@ Once the patching has completed successfully, you can close the patcher:
 ## 6. Log in!!!
 If everything went well, you can now start Yahoo! Messenger and log-in using your [Buzzd.Chat](https://buzzd.chat) **username**.
 
-**Double click on the pinned YahooMessenger app in Whisky**
+**Double-click on the pinned YahooMessenger app in Whisky**
 ![Start Y!M](./images/getting-started/macos-whiskey-start-ym.png)
 
 ![Logging in](./images/getting-started/logging-in.png)
