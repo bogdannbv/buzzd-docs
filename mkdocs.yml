@@ -24,7 +24,7 @@ nav:
   - Getting Started:
       - Windows: index.md
       - macOS: mac-os.md
-      - Linux: https://github.com/bogdannbv/buzzd-linux-bundle
+      - Linux: linux.md
   - Downloads:
       - Yahoo! Messenger: downloads/yahoo-messenger.md
       - Flash Player: downloads/flash-player.md
