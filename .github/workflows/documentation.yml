@@ -1,0 +1,32 @@
+name: Build and deploy documentation
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  pages: write
+
+jobs:
+  build:
+    name: Build documentation
+    runs-on: squidfunk/mkdocs-material:9.6
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Build documentation
+        run: |
+          mkdocs build --clean
+
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
