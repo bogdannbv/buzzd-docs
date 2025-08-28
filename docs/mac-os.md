@@ -12,7 +12,7 @@
     - Sleeping the device will most probably make Y!M unresponsive, you'll have to forcefully close it
     - Battery life may be affected?? (more testing needed)
 
-# Requirements:
+## Requirements
 
 * An Apple Silicon SoC (M-series chips) device
 * macOS Sonoma (`14.0`) or later
