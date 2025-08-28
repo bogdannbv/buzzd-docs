@@ -11,7 +11,9 @@ permissions:
 jobs:
   documentation:
     name: Build and deploy
-    runs-on: squidfunk/mkdocs-material:9.6
+    runs-on: ubuntu-latest
+    container:
+      image: squidfunk/mkdocs-material:9.6
     steps:
 
       - name: Checkout repository
