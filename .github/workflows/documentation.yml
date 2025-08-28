@@ -9,8 +9,8 @@ permissions:
   pages: write
 
 jobs:
-  build:
-    name: Build documentation
+  documentation:
+    name: Build and deploy
     runs-on: squidfunk/mkdocs-material:9.6
     steps:
 
