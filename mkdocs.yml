@@ -1,6 +1,6 @@
 site_name: Buzzd Docs
 site_url: https://buzzd.chat
-dev_addr: 127.0.0.1:8069
+dev_addr: 0.0.0.0:8069
 
 theme:
   name: material
@@ -9,9 +9,6 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.top
-
-plugins:
-  - offline
 
 markdown_extensions:
   - md_in_html

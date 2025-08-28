@@ -1,0 +1,10 @@
+services:
+  docs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: dev
+    volumes:
+      - ./:/docs
+    ports:
+      - '8069:8069'
