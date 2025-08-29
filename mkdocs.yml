@@ -58,9 +58,12 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/buzzd
+      name: Join us on Discord
 
     - icon: fontawesome/brands/tiktok
       link: https://tiktok.com/@buzzdchat
+      name: Buzzd on TikTok
 
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/buzzd.chat
+      name: Buzzd on Instagram
