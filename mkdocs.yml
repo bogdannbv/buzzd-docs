@@ -2,6 +2,10 @@ site_name: Buzzd Docs
 site_url: https://buzzd.chat
 dev_addr: 0.0.0.0:8069
 
+repo_name: bogdannbv/buzzd-docs
+repo_url: https://github.com/bogdannbv/buzzd-docs
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   favicon: images/favicon.svg
@@ -10,6 +14,7 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.top
+    - content.action.edit
 
 markdown_extensions:
   - md_in_html
@@ -23,8 +28,17 @@ markdown_extensions:
 
 plugins:
   - blog:
+  - search:
+
   - privacy:
       concurrency: 1
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
 
 nav:
   - Home:  https://buzzd.chat
