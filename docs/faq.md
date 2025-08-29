@@ -32,8 +32,8 @@
     If the recipient doesn't log in during that 2 weeks retention period, the messages get deleted automatically.
 
 ??? question "Who is behind Buzzd Chat?"
-    The project was started as a passion project by [**@bogdannbv**](https://github.com/bogdannbv).  
-    Later on **@xsl1ck** joined and took over the community aspect of the project.
+    The project was started by [**@bogdannbv**](https://github.com/bogdannbv) as a passion project around January 2024.  
+    Later on, **@xsl1ck** joined and took over the community aspect of the project.
 
 ??? question "Is Buzzd Chat monetized in any way?"
     The short answer is **no**.  
