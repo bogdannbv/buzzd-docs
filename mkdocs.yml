@@ -62,6 +62,7 @@ nav:
   - FAQ: faq.md
   - Blog:
       - blog/index.md
+  - Service Status: https://uptime.buzzd.chat/status/services
 
 extra:
   social:
