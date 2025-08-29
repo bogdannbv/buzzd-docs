@@ -4,22 +4,12 @@ dev_addr: 0.0.0.0:8069
 
 theme:
   name: material
+  favicon: images/favicon.svg
   features:
     - navigation.expand
     - navigation.tabs
     - navigation.path
     - navigation.top
-
-extra:
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/buzzd
-
-    - icon: fontawesome/brands/tiktok
-      link: https://tiktok.com/@buzzdchat
-
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/buzzd.chat
 
 markdown_extensions:
   - md_in_html
@@ -32,6 +22,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
+  - blog:
   - privacy:
       concurrency: 1
 
@@ -46,3 +37,16 @@ nav:
       - Flash Player: downloads/flash-player.md
       - BZDPatcher: downloads/bzd-patcher.md
   - FAQ: faq.md
+  - Blog:
+      - blog/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/buzzd
+
+    - icon: fontawesome/brands/tiktok
+      link: https://tiktok.com/@buzzdchat
+
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/buzzd.chat
