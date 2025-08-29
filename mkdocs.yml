@@ -11,12 +11,19 @@ copyright: "Copyright &copy; 2024 - 2025 Bogdan Nicorici"
 theme:
   name: material
   favicon: images/favicon.svg
+  palette:
+    primary: custom
+    accent: custom
   features:
     - navigation.expand
     - navigation.tabs
     - navigation.path
     - navigation.top
     - content.action.edit
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - md_in_html
