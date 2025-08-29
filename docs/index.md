@@ -32,7 +32,8 @@ The installation process should be fairly straightforward, just as you remember 
 For the client to be able to connect to the Buzzd services, some patching is required.  
 [BZDPatcher](./downloads/bzd-patcher.md) can be downloaded [from here](./downloads/bzd-patcher.md)
 
-!!! warning "Make sure Yahoo! Messenger is COMPLETELY closed before proceeding, from the taskbar too." 
+!!! warning "Make sure Yahoo! Messenger is COMPLETELY closed before proceeding, from the taskbar too."
+    ![yahoo messenger taskbar](./images/getting-started/ym-taskbar.png)
 
 #### 4.1. Start Patching
 After downloading and starting BZDPatcher, press the PATCH button:
