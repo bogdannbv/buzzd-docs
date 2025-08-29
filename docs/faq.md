@@ -30,10 +30,13 @@
     We're storing **only the offline messages** for up to 2 weeks.  
     Once the recipient logs in we're sending them the offline messages and delete them from our database.  
     If the recipient doesn't log in during that 2 weeks retention period, the messages get deleted automatically.
-    
+
+??? question "Who is behind Buzzd Chat?"
+    The project has started as a passion project by [**@bogdannbv**](https://github.com/bogdannbv).  
+    Later on **@xsl1ck** joined and took over the community aspect of the project.
+
 ??? question "Is Buzzd Chat monetized in any way?"
     The short answer is **no**.  
     The long answer is that probably, as the project grows, the hosting cost will increase, and at some point we'll have to introduce either donations or merch or even both.  
     What's clear though is that we won't be "paywalling" the service or features in any way, shape or form.  
     All the donations will be completely optional.
-    

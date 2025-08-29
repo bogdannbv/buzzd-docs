@@ -48,5 +48,5 @@ Otherwise, proceed to the update instructions.
 - Added banning system to easily ban users from the admin dashboard 
 
 ## Special thanks
-- **xsl1ck** - for being there from the beginning and managing the community so well
+- **@xsl1ck** - for being there from the beginning and managing the community so well
 - [Bastanu2016](https://www.youtube.com/@Bastanu-qj2ll) - for allowing us to use his [8bit version of "Un trandafir creste la firida mea"](https://www.youtube.com/watch?v=2tTY6A5XisU)
