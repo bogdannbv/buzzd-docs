@@ -6,7 +6,7 @@
 
 ![Buzzd Patcher](./images/bzd-patcher.png)
 
-[:fontawesome-solid-download: BZDPatcher_1.2.2.exe](./files/BZDPatcher.exe){ .md-button .md-button--primary }
+[:fontawesome-solid-download: BZDPatcher_1.2.2.zip](./files/BZDPatcher_1.2.2.zip){ .md-button .md-button--primary }
 
 - SHA256: `32a12e3177b350570f8eed38bbf734bd53883c44c6dbfe73a3cf696c0c0ef26b`
 - VirusTotal: [32a12e3177b350570f8eed38bbf734bd53883c44c6dbfe73a3cf696c0c0ef26b](https://www.virustotal.com/gui/file/32a12e3177b350570f8eed38bbf734bd53883c44c6dbfe73a3cf696c0c0ef26b)
