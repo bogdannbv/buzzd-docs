@@ -6,10 +6,10 @@
 
 ![Buzzd Patcher](./images/bzd-patcher.png)
 
-[:fontawesome-solid-download: BZDPatcher_1.2.2.zip](./files/BZDPatcher_1.2.2.zip){ .md-button .md-button--primary }
+[:fontawesome-solid-download: BZDPatcher_1.2.2.exe](./files/BZDPatcher.exe){ .md-button .md-button--primary }
 
-- SHA256: `d56dfa683fdcc1449c1e2555b577a707bb2a83653bf173d7066755b9bcf78ffb`
-- VirusTotal: [d56dfa683fdcc1449c1e2555b577a707bb2a83653bf173d7066755b9bcf78ffb](https://www.virustotal.com/gui/file/d56dfa683fdcc1449c1e2555b577a707bb2a83653bf173d7066755b9bcf78ffb)
+- SHA256: `32a12e3177b350570f8eed38bbf734bd53883c44c6dbfe73a3cf696c0c0ef26b`
+- VirusTotal: [32a12e3177b350570f8eed38bbf734bd53883c44c6dbfe73a3cf696c0c0ef26b](https://www.virustotal.com/gui/file/32a12e3177b350570f8eed38bbf734bd53883c44c6dbfe73a3cf696c0c0ef26b)
 - Music: Thanks to [Bastanu2016](https://www.youtube.com/watch?v=2tTY6A5XisU) 🫡 
 
 ## Supported clients
@@ -17,9 +17,10 @@
 
 ## Changelog
 
-!!! tip "#Version 1.2.2"
-    - Added logging - you'll be able to find the patching logs in `%temp%\bzdpatcher.log`
-    - Added better checking for running Y!M processes
-    - Updated [`nlohmann::json`](https://github.com/nlohmann/json) library from `3.11.3` to `3.12.0`
-    - Fixed a bug with configuration JSON loading and parsing
-    - Fixed `successfuly` to `successfully` typo
+!!! tip "Version 1.2.2"
+    - Added logging - you'll be able to find the patching logs in `%temp%\bzdpatcher.log`.
+    - Added better checking for running Y!M processes.
+    - Updated [`nlohmann::json`](https://github.com/nlohmann/json) library from `3.11.3` to `3.12.0`.
+    - Fixed a bug where files were not being rolled back correctly in some edge-cases.
+    - Fixed a bug with configuration JSON loading and parsing.
+    - Fixed `successfuly` to `successfully` typo.
