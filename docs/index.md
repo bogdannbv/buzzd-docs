@@ -6,6 +6,10 @@
 
 !!! warning "Proceed only if you fully understand the risks you're possibly exposing yourself to!"
 
+<video autoplay loop muted playsinline>
+<source src="./videos/installation.webm" type="video/webm">
+</video>
+
 ## Requirements
 
 * Windows `XP SP3` and above (`Vista`, `7`, `8`, `8.1`, `10`, `11`)
