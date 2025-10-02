@@ -1,14 +1,14 @@
 # Getting Started
 
-!!! danger "Using outdated software is [dangerous](https://youtu.be/DduAbLpZDHg?si=hMtWY4OpSFmAlcX6)!"
-    [The **TLS version** used by the Yahoo! Messenger client is deprecated](https://www.ietf.org/rfc/rfc8996.html) and considered **insecure** by modern cryptographic standards!  
-    The **protocol** that Y!M uses is a ["**plaintext**"](https://en.wikipedia.org/wiki/Plaintext) one, meaning that it's **not secure** and any data (e.g.: messages) transmitted through it is **not encrypted** in any way, shape or form.  
-
-!!! warning "Proceed only if you fully understand the risks you're possibly exposing yourself to!"
-
 <video autoplay loop muted playsinline>
 <source src="./videos/installation.webm" type="video/webm">
 </video>
+
+!!! danger "Using outdated software is [dangerous](https://youtu.be/DduAbLpZDHg?si=hMtWY4OpSFmAlcX6)!"
+    [The **TLS version** used by the Yahoo! Messenger client is deprecated](https://www.ietf.org/rfc/rfc8996.html) and considered **insecure** by modern cryptographic standards!  
+    The **protocol** that Y!M uses is a ["**plaintext**"](https://en.wikipedia.org/wiki/Plaintext) one, meaning that it's **not secure** and any data (e.g.: messages) transmitted through it is **not encrypted** in any way, shape or form.
+
+!!! warning "Proceed only if you fully understand the risks you're possibly exposing yourself to!"
 
 ## Requirements
 
