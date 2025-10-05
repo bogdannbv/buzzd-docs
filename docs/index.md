@@ -31,6 +31,9 @@ The installation process should be fairly straightforward, just as you remember 
 ## 3. Install [Flash Player](./downloads/flash-player.md)
 [Download](./downloads/flash-player.md) whichever version you want and install it as usual.
 
+!!! tip "Having issues installing Flash Player?"
+    Please visit the [troubleshooting section.](./downloads/flash-player.md#troubleshooting)
+
 ---
 ## 4. Patch using [BZDPatcher](./downloads/bzd-patcher.md)
 For the client to be able to connect to the Buzzd services, some patching is required.  
