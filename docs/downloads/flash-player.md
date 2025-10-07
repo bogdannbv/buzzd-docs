@@ -21,14 +21,26 @@
 ---
 
 # **Troubleshooting**
-If your issue persists, please contact us.
 
-!!! danger "The version of Adobe Flash Player that you are trying to install is not the most current version"
-    ![flash player version issue](./images/adobe-flash-player-version-issue.png)  
-    ### If you're encountering this error, please try:  
-    1. **Download and run the uninstaller for Flash Player.**
+![flash player version issue](./images/adobe-flash-player-version-issue.png)
+
+If you're encountering this error, please try:
+
+1. **Download and run the uninstaller for Flash Player.**
+2. **Retry installing Flash Player.**
+
+[:fontawesome-solid-download: uninstall_flash_player.exe](./files/uninstall_flash_player.exe){ .md-button .md-button--primary }  
+
+- SHA256: `a967fe37132dfc787f3df0c6836ad7b44abc209826cbf34564ecafc0ff229a2b`  
+- VirusTotal: [a967fe37132dfc787f3df0c6836ad7b44abc209826cbf34564ecafc0ff229a2b](https://www.virustotal.com/gui/file/a967fe37132dfc787f3df0c6836ad7b44abc209826cbf34564ecafc0ff229a2b)
+
+??? danger "Still having this issue? Click here"
+    ### If the issue persists, as a **last resort**:  
+    1. **Download and run the `unflasher` utility**  
     2. **Retry installing Flash Player.**
 
-    [:fontawesome-solid-download: uninstall_flash_player.exe](./files/uninstall_flash_player.exe){ .md-button .md-button--primary }  
-    SHA256: `a967fe37132dfc787f3df0c6836ad7b44abc209826cbf34564ecafc0ff229a2b`  
-    VirusTotal: [a967fe37132dfc787f3df0c6836ad7b44abc209826cbf34564ecafc0ff229a2b](https://www.virustotal.com/gui/file/a967fe37132dfc787f3df0c6836ad7b44abc209826cbf34564ecafc0ff229a2b)
+    **Disclaimer**: This utility is designed to run with the highest privileges available. Your antivirus might flag it as a virus.
+
+    [:fontawesome-solid-download: unflasher.exe](./files/unflasher.exe){ .md-button .md-button--primary }  
+    SHA256: 27a5faf97b5db11682099e0045918416e338921277c6ea3f9f5e5006d9ded441  
+    VirusTotal: [27a5faf97b5db11682099e0045918416e338921277c6ea3f9f5e5006d9ded441](https://www.virustotal.com/gui/file/27a5faf97b5db11682099e0045918416e338921277c6ea3f9f5e5006d9ded441)
