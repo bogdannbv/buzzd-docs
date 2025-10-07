@@ -36,11 +36,11 @@ If you're encountering this error, please try:
 
 ??? danger "Still having this issue? Click here"
     ### If the issue persists, as a **last resort**:  
-    1. **Download and run the `unflasher` utility**  
+    1. **Download and run the `Unflasher` utility**  
     2. **Retry installing Flash Player.**
 
     **Disclaimer**: This utility is designed to run with the highest privileges available. Your antivirus might flag it as a virus.
 
-    [:fontawesome-solid-download: unflasher.exe](./files/unflasher.exe){ .md-button .md-button--primary }  
-    SHA256: 27a5faf97b5db11682099e0045918416e338921277c6ea3f9f5e5006d9ded441  
-    VirusTotal: [27a5faf97b5db11682099e0045918416e338921277c6ea3f9f5e5006d9ded441](https://www.virustotal.com/gui/file/27a5faf97b5db11682099e0045918416e338921277c6ea3f9f5e5006d9ded441)
+    [:fontawesome-solid-download: Unflasher.exe](./files/Unflasher.exe){ .md-button .md-button--primary }  
+    SHA256: 8af9d3581d0a74ddf940554d1d72cdd80ec8ea2dcb7fb6140d7699813666fca0  
+    VirusTotal: [8af9d3581d0a74ddf940554d1d72cdd80ec8ea2dcb7fb6140d7699813666fca0](https://www.virustotal.com/gui/file/8af9d3581d0a74ddf940554d1d72cdd80ec8ea2dcb7fb6140d7699813666fca0)
