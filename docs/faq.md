@@ -32,6 +32,11 @@
     It doesn't make much sense, especially since **all 3rd party clients support only a small subset of all the official features**.  
     That being said, if anyone is interested in patching/updating a 3rd party client to work with our project, we're happy to help as much as reasonably possible.
 
+??? question "Why can't I use Yahoo! Messenger 10 or 11.5?!?!"
+    At the moment we're focusing on making as many features as possible functional.  
+    Once we feel we're in a good place with the amount of features we've got working, we'll start working on supporting both older and newer versions.  
+    Spoiler alert: we've already tested and got (almost fully) working versions 8.1 and 10, but are not yet ready to be released.
+
 ??? question "How long are you storing the messages for?"
     We're storing **only the offline messages** for up to 2 weeks.  
     Once the recipient logs in we're sending them the offline messages and delete them from our database.  
