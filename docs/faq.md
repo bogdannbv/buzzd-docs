@@ -26,6 +26,12 @@
     Reverse engineering them takes a lot of time and effort.
     Once more developers join the project, we'll be able to allocate more time to these features.
 
+??? question "How do I use Pidgin/Trillian/other old 3rd party clients with Buzzd Chat?"
+    Currently, **we support only the official clients**, and probably we'll never support any 3rd party clients.  
+    We don't see the point of using a revival project with anything other than the official clients.  
+    It doesn't make much sense, especially since **all 3rd party clients support only a small subset of all the official features**.  
+    That being said, if anyone is interested in patching/updating a 3rd party client to work with our project, we're happy to help as much as reasonably possible.
+
 ??? question "How long are you storing the messages for?"
     We're storing **only the offline messages** for up to 2 weeks.  
     Once the recipient logs in we're sending them the offline messages and delete them from our database.  
