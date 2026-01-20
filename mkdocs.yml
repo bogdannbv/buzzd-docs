@@ -6,7 +6,7 @@ repo_name: bogdannbv/buzzd-docs
 repo_url: https://github.com/bogdannbv/buzzd-docs
 edit_uri: edit/main/docs/
 
-copyright: "Copyright &copy; 2024 - 2025 Bogdan Nicorici"
+copyright: "Copyright &copy; 2024 - 2026 Bogdan Nicorici"
 
 theme:
   name: material
