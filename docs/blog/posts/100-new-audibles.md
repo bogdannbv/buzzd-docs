@@ -12,6 +12,8 @@ categories:
 
 ![new audibles](./images/119-new-audibles.png)
 
+<!-- more -->
+
 **How to get them you ask??**
 
 **Easy, sign out and log back in!**

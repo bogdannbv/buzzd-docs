@@ -16,6 +16,8 @@ You can now [register](https://buzzd.chat/register) and follow the instructions 
 
 If you encounter any bugs, please contact us.
 
+<!-- more -->
+
 ## Features
 - Authentication (obviously)
 - Messaging (duuh)

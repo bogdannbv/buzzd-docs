@@ -14,6 +14,8 @@ Even though it served us well, it's now time for the Buzzd Community Forum to be
 
 The main reason for this change is that it wasn't being used for its intended purpose — a place where people could interact and talk about other things besides Yahoo! Messenger — and people preferred [Discord](https://buzzd.chat/discord) over it.
 
+<!-- more -->
+
 It mostly functioned as a make-shift documentation site and blog and its operational effort and cost couldn't be justified any longer.
 
 Another thing that we've noticed is that people often got confused and created accounts on the forum even though that's not what they intended.
