@@ -17,6 +17,8 @@ Even though it took longer than first estimated, the feature implementations sho
 #### If you're new, please follow one of the [getting started guides](../../index.md).
 Otherwise, proceed to the update instructions.
 
+<!-- more -->
+
 ## How to update
 1. Download & install [Flash Player](../../downloads/flash-player.md) (required by Audibles and future content updates).
 2. Download the latest [BZDPatcher](../../downloads/bzd-patcher.md) version.
