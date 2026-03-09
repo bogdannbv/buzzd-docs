@@ -87,7 +87,7 @@ Four laptops, [a random PC found in an office](./100-new-audibles.md#special-tha
 To these amazing community members, in no particular order:
 
 - [**@nenea33**](https://www.tiktok.com/@mynameis_nenea33) - for the 2015 Y!M `11.5` archive
-- **@JasonN** - from our Discord server, for the 2014 Y!M `10.0` archive
+- **@JordaN** - from our Discord server, for the 2014 Y!M `10.0` archive
 - **@aLinux** - from [RetroTech.ro](https://retrotech.ro/forum/), for the 2011 Y!M `10.0` archive
 - **@Nyehmeh** - from [Flashpoint Archive](https://flashpointarchive.org/discord), besides the huge amount of audibles he gave us, he also archived some IMVs
 
