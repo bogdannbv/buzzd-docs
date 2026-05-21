@@ -8,7 +8,7 @@
 
 ## **Version** `9.0.0.2162`
 
-[:fontawesome-solid-download: 9002162-ymsgr900-2162-us.exe](./files/9002162-ymsgr900-2162-us.exe){ .md-button .md-button--primary }
+[:fontawesome-solid-download: ymsgr900-2162-us.exe](files/client/ymsgr900-2162-us.exe){ .md-button .md-button--primary }
 
 - SHA256: `6fd26f48c1758c283288340a4a350c3caee2456f235e545c7fbb82e1c55f2777`
 - VirusTotal: [6fd26f48c1758c283288340a4a350c3caee2456f235e545c7fbb82e1c55f2777](https://www.virustotal.com/gui/file/6fd26f48c1758c283288340a4a350c3caee2456f235e545c7fbb82e1c55f2777)
